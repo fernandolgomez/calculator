@@ -14,6 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
-[![Build status]([![Build Status](https://dev.azure.com/FernandolucianoGomez/Integrate%20Your%20GitHub%20Projects%20With%20Azure%20Pipelines/_apis/build/status/fernandolgomez.calculator?branchName=master)](https://dev.azure.com/FernandolucianoGomez/Integrate%20Your%20GitHub%20Projects%20With%20Azure%20Pipelines/_build/latest?definitionId=8&branchName=master)
-]
+[![Build Status](https://dev.azure.com/FernandolucianoGomez/Integrate%20Your%20GitHub%20Projects%20With%20Azure%20Pipelines/_apis/build/status/fernandolgomez.calculator?branchName=master)](https://dev.azure.com/FernandolucianoGomez/Integrate%20Your%20GitHub%20Projects%20With%20Azure%20Pipelines/_build/latest?definitionId=8&branchName=master)
 
